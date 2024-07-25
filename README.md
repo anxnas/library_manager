@@ -23,7 +23,7 @@
 
 1. Склонируйте репозиторий:
     ```sh
-    git clone https://github.com/yourusername/library-manager.git
+    git clone https://github.com/anxnas/library_manager.git
     ```
 2. Перейдите в директорию проекта:
     ```sh
